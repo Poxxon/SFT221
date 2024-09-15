@@ -1,0 +1,22 @@
+2024-06-15 16:01:45,506 - DEBUG - Starting nextWhite with string: "Example string"
+2024-06-15 16:01:45,506 - DEBUG - Assertion passed: String is not NULL
+2024-06-15 16:01:45,506 - DEBUG - Next whitespace found at index: 7
+2024-06-15 16:01:45,507 - DEBUG - Starting isNumber with string: "12345" and length: 5
+2024-06-15 16:01:45,507 - DEBUG - Assertion passed: Length is non-negative
+2024-06-15 16:01:45,508 - DEBUG - String is a number
+2024-06-15 16:01:45,508 - DEBUG - Starting indexString with string: "Example
+string with
+numbers 12345"
+2024-06-15 16:01:45,509 - DEBUG - Line starts at index: 0
+2024-06-15 16:01:45,510 - DEBUG - Line starts at index: 8
+2024-06-15 16:01:45,513 - DEBUG - Word starts at index: 0
+2024-06-15 16:01:45,514 - DEBUG - Number starts at index: 23
+2024-06-15 16:01:45,515 - DEBUG - Starting getWord with wordNum: 0
+2024-06-15 16:01:45,516 - DEBUG - Assertion passed: Word number is within bounds
+2024-06-15 16:01:45,518 - DEBUG - Word found: "Example"
+2024-06-15 16:01:45,519 - DEBUG - Starting getNumber with numberNum: 0
+2024-06-15 16:01:45,520 - DEBUG - Assertion passed: Number number is within bounds
+2024-06-15 16:01:45,520 - DEBUG - Number found: "12345"
+2024-06-15 16:01:45,521 - DEBUG - Starting getLine with lineNum: 0
+2024-06-15 16:01:45,521 - DEBUG - Assertion passed: Line number is within bounds
+2024-06-15 16:01:45,521 - DEBUG - Line found: "Example"

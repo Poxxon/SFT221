@@ -1,0 +1,19 @@
+Start testing: May 26 13:21 EDT
+----------------------------------------------------------
+Unable to find executable: /Users/pouyarad/documents/SEM 2 CPA/SFT221 NEE/WS03/build/test_mathfuncs
+1/1 Testing: TestMathFuncs
+1/1 Test: TestMathFuncs
+Command: ""
+Directory: /Users/pouyarad/documents/SEM 2 CPA/SFT221 NEE/WS03/build
+"TestMathFuncs" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"TestMathFuncs" end time: May 26 13:21 EDT
+"TestMathFuncs" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: May 26 13:21 EDT

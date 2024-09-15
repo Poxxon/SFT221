@@ -1,0 +1,6 @@
+/Users/pouyarad/documents/SEM 2 CPA/SFT221 NEE/WS03/build/CMakeFiles/mathfuncs.dir
+/Users/pouyarad/documents/SEM 2 CPA/SFT221 NEE/WS03/build/CMakeFiles/main.dir
+/Users/pouyarad/documents/SEM 2 CPA/SFT221 NEE/WS03/build/CMakeFiles/test_mathfuncs.dir
+/Users/pouyarad/documents/SEM 2 CPA/SFT221 NEE/WS03/build/CMakeFiles/test.dir
+/Users/pouyarad/documents/SEM 2 CPA/SFT221 NEE/WS03/build/CMakeFiles/edit_cache.dir
+/Users/pouyarad/documents/SEM 2 CPA/SFT221 NEE/WS03/build/CMakeFiles/rebuild_cache.dir

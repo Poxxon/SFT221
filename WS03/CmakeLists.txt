@@ -1,0 +1,27 @@
+cmake_minimum_required(VERSION 3.10)
+project(MyProject)
+
+# Set the C standard
+set(CMAKE_C_STANDARD 99)
+set(CMAKE_C_STANDARD_REQUIRED True)
+
+# Add the source files
+add_library(mathfuncs src/mathfuncs.c)
+
+# Add the executable for the main program
+add_executable(main src/main.c)
+target_link_libraries(main mathfuncs)
+
+# Enable testing
+enable_testing()
+
+# Find Google Test
+find_package(GTest REQUIRED)
+include_directories(${GTEST_INCLUDE_DIRS})
+
+# Add the executable for the tests
+add_executable(test_mathfuncs tests/test_mathfuncs.cpp)
+target_link_libraries(test_mathfuncs ${GTEST_LIBRARIES} mathfuncs)
+
+# Add tests
+add_test(NAME TestMathFuncs COMMAND test_mathfuncs)

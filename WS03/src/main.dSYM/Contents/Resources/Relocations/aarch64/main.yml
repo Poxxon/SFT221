@@ -1,0 +1,12 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/pouyarad/Documents/SEM 2 CPA/SFT221 NEE/WS03/Project1/src/main'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _getString, symObjAddr: 0x0, symBinAddr: 0x10000390C, symSize: 0x144 }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _getString, symObjAddr: 0x0, symBinAddr: 0x10000390C, symSize: 0x144 }
+  - { offsetInCU: 0x81, offset: 0x81, size: 0x8, addend: 0x0, symName: _isValidPostalCode, symObjAddr: 0x144, symBinAddr: 0x100003A50, symSize: 0x120 }
+  - { offsetInCU: 0xB7, offset: 0xB7, size: 0x8, addend: 0x0, symName: _formatPostalCode, symObjAddr: 0x264, symBinAddr: 0x100003B70, symSize: 0x78 }
+  - { offsetInCU: 0xF7, offset: 0xF7, size: 0x8, addend: 0x0, symName: _getPostalCode, symObjAddr: 0x2DC, symBinAddr: 0x100003BE8, symSize: 0x14C }
+  - { offsetInCU: 0x137, offset: 0x137, size: 0x8, addend: 0x0, symName: _getInfo, symObjAddr: 0x428, symBinAddr: 0x100003D34, symSize: 0xAC }
+  - { offsetInCU: 0x15B, offset: 0x15B, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x4D4, symBinAddr: 0x100003DE0, symSize: 0xA8 }
+...
